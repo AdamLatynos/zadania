@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="Arkusz.css">
+</head>
+
+<body>
+<div id="strona">
+    <h1>Zadanie 17 zaprojektuj własne trampki</h1>
+    <h2>Autor:Adam Malczeski</h2>
+    <hr>
+    <h1>Formularz konkursu „Podrasuj swoje buty!”</h1>
+    <p>Chcesz zamienić swoje stare trampki na nową parę zaprojektowanych przez siebie butów Forcefield?
+        Napisz nam, dlaczego sądzisz, że powinieneś pożegnać się ze swoimi wysłużonymi butami, a być może zostaniesz jednym z laureatów konkursu!</p>
+    <fieldset>
+        <legend>Podstawowe dane</legend>
+        <div id="formularz1">
+            <label for="imie">Imię i Nazwisko:
+                <input type="text" name="imie" id="imie">
+            </label>
+            <br>
+            <label for="email">E-mail:
+                <input type="email" name="email" id="email">
+            </label>
+            <br>
+            <label for="telefon">Telephone:
+                <input type="tel" name="telefon" id="telefon">
+            </label>
+            <br>
+            <label for="buty">Moje buty są TAKIE stare...</label>
+            <br>
+            <textarea name="opinia" id="buty" cols="60" rows="5">Nie więcej niż 300 znaków</textarea>
+        </div>
+    </fieldset>
+    <h2>Zaprojektuj własne trampki:</h2>
+    <fieldset>
+        <legend>Własny projekt butów</legend>
+        <fieldset>
+            <legend>Kolor <i>(wybierz jeden):</i></legend>
+            <div id="formularz2">
+                <label><input type="radio" name="kolor">czerwony</label>
+                <br>
+                <label><input type="radio" name="kolor">niebieski</label>
+                <br>
+                <label><input type="radio" name="kolor">czarny</label>
+                <br>
+                <label><input type="radio" name="kolor">srebrny</label>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Opcje <i>(możesz wybrać kilka)</i></legend>
+            <div id="formularz3">
+                <label><input type="checkbox" name="dodatek1">Błyszczące sznurówki</label>
+                <br>
+                <label><input type="checkbox" name="dodatek2">Metalowe logo</label>
+                <br>
+                <label><input type="checkbox" name="dodatek3">Świecące podeszwy</label>
+                <br>
+                <label><input type="checkbox" name="dodatek4">Odtwarzanie MP3</label>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Rozmiar</legend>
+            <div id="formularz4">
+                <label for="numer">Rozmiar zgodny ze standardowymi numerami butów:</label>
+                <select name="rozmiar" id="numer">
+                    <option value="35">35</option>
+                    <option value="36">36</option>
+                    <option value="37">37</option>
+                    <option value="38">38</option>
+                    <option value="39">39</option>
+                    <option value="40">40</option>
+                    <option value="41">41</option>
+                    <option value="42">42</option>
+                    <option value="43">43</option>
+                    <option value="44">44</option>
+                    <option value="45">45</option>
+                    <option value="46">46</option>
+                    <option value="47">47</option>
+
+            </select>
+         </div>
+        </fieldset>
+    </fieldset>
+    <br>
+    <input type="submit" value="Podrasuj swoje buty!">
+    <input type="reset" value="Resetuj">
+
+</div>
+</body>
+</html>
