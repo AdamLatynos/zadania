@@ -1,29 +1,34 @@
-body{
+body {
     background-color: #FFE485;
     color: brown;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-#strona{
+
+#strona {
     padding-left: 350px;
     padding-right: 350px;
     padding-top: 40px;
 }
-#formularz1{
+
+#formularz1 {
     padding-left: 40px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-#formularz2{
+
+#formularz2 {
     padding-left: 40px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-#formularz3{
+
+#formularz3 {
     padding-left: 40px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-#formularz4{
+
+#formularz4 {
     padding-top: 15px;
     padding-bottom: 15px;
 }
