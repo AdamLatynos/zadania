@@ -1,0 +1,147 @@
+body{
+    background-color: #404040; 
+    
+}
+
+#strona{
+   
+    
+    font-family: 'Lato', sans-serif;
+    width: 1000px;
+   padding-left: 490px;
+    
+}
+#menu{
+    width: 1000px;
+    background-color: #303030;
+	margin-bottom: 20px;
+	color: #ffffff;
+    height: 50px;
+    clear: both;
+   
+   
+
+    
+}
+#gora{
+    
+    padding-top: 5px;
+    width: 1000px;
+    height: 205px;
+    
+    color: white;
+    background-color: #128870;
+    
+   
+   
+}
+#lewo{
+    float: left;
+    border-right: dotted 2px white ;
+    height: 140px;
+    text-align: center;
+    padding: 30px;
+    width: 140px;
+    
+    
+   
+}
+#prawo{
+    float: right;
+    border-left: dotted 2px  white ;
+    height: 140px;
+    text-align: center;
+    padding: 30px;
+    width: 140px;
+    
+   
+   
+    
+    
+    
+}
+#srodek{
+   
+   width: 560px;
+   height: 200px;
+  padding-top: 20px;
+ margin-left: 225px;
+   
+   
+   
+    
+}
+#leweopcje{
+float: left;
+background-color:  lightgray;
+width: 200px;
+height: 600px;
+border-right: 2px dotted #666666;
+margin-top: 20px;
+font-size: 18px;
+margin-bottom: 20px;
+}
+#tresc{
+    float: right;
+width: 738px;
+background-color: #dedede;
+height: 590px;
+margin-top: 20px;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+margin-bottom: 20px;
+
+
+
+
+}
+#tytul{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#logo{
+    width: 1000px;
+    color: white;
+    letter-spacing: 3px;
+}
+
+.option
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 2px dotted #444444;
+	opacity: 0.8;
+}
+
+.option:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+}
+.optionL
+{
+	font-size:18px;
+	height:25px;
+	padding: 10px;
+	border-bottom: 2px dotted #444444;
+}
+
+.optionL:hover
+{
+	background-color: #f36742;
+	color: white;
+	cursor: pointer;
+}
+#nazwa{
+   
+    border-bottom: dotted #444444 2px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
