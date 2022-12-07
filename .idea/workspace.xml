@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3909d3c5-2253-438e-8322-5f3430615b09" name="Changes" comment="2zapismmm">
+      <change afterPath="$PROJECT_DIR$/20 zadanie linux/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie 17 trampki/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie 17 trampki/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie 17 trampki/.idea/zadania.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/1p01_k04/Desktop/zadania/Stacja Paliw",
+    "last_opened_file_path": "C:/Users/1p01_k04/Desktop/zadania",
     "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
@@ -57,6 +55,7 @@
       <workItem from="1669296160828" duration="412000" />
       <workItem from="1669725478003" duration="459000" />
       <workItem from="1669726241904" duration="13000" />
+      <workItem from="1669903610772" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="cośtsm">
       <created>1669295812617</created>
