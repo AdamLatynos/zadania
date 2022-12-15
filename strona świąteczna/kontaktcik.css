@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    width: 650px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#strona{
+    float: left;
+    text-align: center;
+}
+#dane{
+    
+    margin-top: 15px;
+    border: 2px solid black;
+    box-shadow: black 5px 5px 5px 5px ;
+    background: linear-gradient(90deg, rgba(67,75,53,1) 0%, rgba(163,163,195,1) 35%, rgba(50,143,162,1) 100%);
+    border-radius: 25px;
+}
+#a{
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    color: aliceblue;
+}
