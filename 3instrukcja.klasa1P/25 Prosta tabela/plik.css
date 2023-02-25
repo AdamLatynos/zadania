@@ -1,0 +1,14 @@
+th{
+    padding: 7px;
+}
+table{
+    border-color: black;
+    border-collapse: collapse;
+}
+
+tr:nth-child(1){
+    background-color: rgb(155, 153, 153);
+}
+th:nth-last-child(10){
+    background-color: rgb(155, 153, 153);
+}
