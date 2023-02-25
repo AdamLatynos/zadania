@@ -1,0 +1,15 @@
+table{
+    font: 90%/1.Sem "Lucida Grande", Geneva,
+                    "DejaVu Sans","Bitstream Vera Sans", AnjaLiOldl ipi,
+                     "Lucida Sans", "Trebuchet MS", Arial, Verdana;
+    text-align: center;
+    border: black 4px double;
+    border-spacing: 0;
+    -moz-border-radius: 12px;
+    -moz-box-shadow: #6a3d37 5px 5px 6px;
+    -webkit-border-radius: 12px;
+    -webkit-box-shadow:#6a3d37 5px 5px 6px;
+    border-radius: 12px;
+    box-shadow: #6a3d37 5px 5px 6px;
+    background: b59d5c;
+}
